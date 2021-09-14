@@ -6,7 +6,7 @@
   <link href="https://cato.eu.org/atom.xml" rel="self"/>
   
   <link href="https://cato.eu.org/"/>
-  <updated>2021-09-14T11:51:06.520Z</updated>
+  <updated>2021-09-14T13:25:24.725Z</updated>
   <id>https://cato.eu.org/</id>
   
   <author>
@@ -17,11 +17,71 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>butterfly主题自用的一些设置</title>
-    <link href="https://cato.eu.org/null.html"/>
-    <id>https://cato.eu.org/null.html</id>
+    <title>Cloudflare WARP 给 VPS 服务器额外添加 IPv4 或 IPv6</title>
+    <link href="https://cato.eu.org/WarpIP.html"/>
+    <id>https://cato.eu.org/WarpIP.html</id>
+    <published>2021-09-14T13:12:00.000Z</published>
+    <updated>2021-09-14T13:25:24.725Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;Cloudflare WARP 一键配置脚本是一个简化在 Linux VPS 上安装和配置 Cloud­flare WARP 的脚本，它支持 WARP 官方客户端和 Wire­Guard 两种主流 WARP 使用方式，适用于 IPv4/​IPv6</summary>
+        
+      
+    
+    
+    
+    <category term="WARP" scheme="https://cato.eu.org/categories/WARP/"/>
+    
+    
+    <category term="Cloudflare" scheme="https://cato.eu.org/tags/Cloudflare/"/>
+    
+    <category term="Warp" scheme="https://cato.eu.org/tags/Warp/"/>
+    
+    <category term="VPS" scheme="https://cato.eu.org/tags/VPS/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Hexo自定义文章url地址</title>
+    <link href="https://cato.eu.org/hexo-custom-article-url.html"/>
+    <id>https://cato.eu.org/hexo-custom-article-url.html</id>
+    <published>2021-09-14T12:47:48.000Z</published>
+    <updated>2021-09-14T13:09:32.431Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;自定义文章-URL&quot;&gt;&lt;a href=&quot;#自定义文章-URL&quot; class=&quot;headerlink&quot; title=&quot;自定义文章 URL&quot;&gt;&lt;/a&gt;自定义文章 URL&lt;/h1&gt;&lt;p&gt;先说说中文转义 URL 的方式，首先需要修改 hexo</summary>
+        
+      
+    
+    
+    
+    <category term="Hexo" scheme="https://cato.eu.org/categories/Hexo/"/>
+    
+    <category term="butterfly" scheme="https://cato.eu.org/categories/Hexo/butterfly/"/>
+    
+    
+    <category term="Hexo" scheme="https://cato.eu.org/tags/Hexo/"/>
+    
+    <category term="Butterfly" scheme="https://cato.eu.org/tags/Butterfly/"/>
+    
+    <category term="url自定义" scheme="https://cato.eu.org/tags/url%E8%87%AA%E5%AE%9A%E4%B9%89/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Butterfly主题自用的一些设置</title>
+    <link href="https://cato.eu.org/Butterfly.html"/>
+    <id>https://cato.eu.org/Butterfly.html</id>
     <published>2021-09-14T03:18:52.000Z</published>
-    <updated>2021-09-14T11:51:06.520Z</updated>
+    <updated>2021-09-14T13:09:40.838Z</updated>
     
     
       
@@ -38,19 +98,27 @@
     
     
     
-    <category term="butterfly" scheme="https://cato.eu.org/categories/butterfly/"/>
+    <category term="Markdown" scheme="https://cato.eu.org/categories/Markdown/"/>
+    
+    <category term="butterfly" scheme="https://cato.eu.org/categories/Markdown/butterfly/"/>
     
     
-    <category term="butterfly Markdown写法" scheme="https://cato.eu.org/tags/butterfly-Markdown%E5%86%99%E6%B3%95/"/>
+    <category term="Hexo" scheme="https://cato.eu.org/tags/Hexo/"/>
+    
+    <category term="Butterfly" scheme="https://cato.eu.org/tags/Butterfly/"/>
+    
+    <category term="Markdown" scheme="https://cato.eu.org/tags/Markdown/"/>
+    
+    <category term="Markdown写法" scheme="https://cato.eu.org/tags/Markdown%E5%86%99%E6%B3%95/"/>
     
   </entry>
   
   <entry>
     <title>Markdown文章的自用</title>
-    <link href="https://cato.eu.org/index.html"/>
-    <id>https://cato.eu.org/index.html</id>
+    <link href="https://cato.eu.org/Markdownwritter.html"/>
+    <id>https://cato.eu.org/Markdownwritter.html</id>
     <published>2021-09-14T02:02:00.000Z</published>
-    <updated>2021-09-14T11:51:06.527Z</updated>
+    <updated>2021-09-14T13:04:46.702Z</updated>
     
     
       
@@ -66,7 +134,11 @@
     <category term="Markdown" scheme="https://cato.eu.org/categories/Markdown/"/>
     
     
-    <category term="Markdown写法 Butterfly" scheme="https://cato.eu.org/tags/Markdown%E5%86%99%E6%B3%95-Butterfly/"/>
+    <category term="Hexo" scheme="https://cato.eu.org/tags/Hexo/"/>
+    
+    <category term="Butterfly" scheme="https://cato.eu.org/tags/Butterfly/"/>
+    
+    <category term="Markdown写法" scheme="https://cato.eu.org/tags/Markdown%E5%86%99%E6%B3%95/"/>
     
   </entry>
   
