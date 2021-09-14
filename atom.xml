@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>猫偶的博客</title>
+  <title>猫偶的部落格</title>
   <icon>https://cato.eu.org/icon.png</icon>
-  <subtitle>日记本</subtitle>
+  <subtitle>记录互联网上的日常点滴</subtitle>
   <link href="https://cato.eu.org/atom.xml" rel="self"/>
   
   <link href="https://cato.eu.org/"/>
