@@ -6,7 +6,7 @@
   <link href="https://cato.eu.org/atom.xml" rel="self"/>
   
   <link href="https://cato.eu.org/"/>
-  <updated>2021-09-14T10:42:48.763Z</updated>
+  <updated>2021-09-14T11:51:06.520Z</updated>
   <id>https://cato.eu.org/</id>
   
   <author>
@@ -18,10 +18,10 @@
   
   <entry>
     <title>butterfly主题自用的一些设置</title>
-    <link href="https://cato.eu.org/butterfly/null/"/>
-    <id>https://cato.eu.org/butterfly/null/</id>
+    <link href="https://cato.eu.org/null.html"/>
+    <id>https://cato.eu.org/null.html</id>
     <published>2021-09-14T03:18:52.000Z</published>
-    <updated>2021-09-14T10:42:48.763Z</updated>
+    <updated>2021-09-14T11:51:06.520Z</updated>
     
     
       
@@ -41,16 +41,16 @@
     <category term="butterfly" scheme="https://cato.eu.org/categories/butterfly/"/>
     
     
-    <category term="butterfly" scheme="https://cato.eu.org/tags/butterfly/"/>
+    <category term="butterfly Markdown写法" scheme="https://cato.eu.org/tags/butterfly-Markdown%E5%86%99%E6%B3%95/"/>
     
   </entry>
   
   <entry>
     <title>Markdown文章的自用</title>
-    <link href="https://cato.eu.org/Markdown/undefined/"/>
-    <id>https://cato.eu.org/Markdown/undefined/</id>
+    <link href="https://cato.eu.org/index.html"/>
+    <id>https://cato.eu.org/index.html</id>
     <published>2021-09-14T02:02:00.000Z</published>
-    <updated>2021-09-14T03:25:07.826Z</updated>
+    <updated>2021-09-14T11:51:06.527Z</updated>
     
     
       
@@ -66,7 +66,7 @@
     <category term="Markdown" scheme="https://cato.eu.org/categories/Markdown/"/>
     
     
-    <category term="Markdown写法" scheme="https://cato.eu.org/tags/Markdown%E5%86%99%E6%B3%95/"/>
+    <category term="Markdown写法 Butterfly" scheme="https://cato.eu.org/tags/Markdown%E5%86%99%E6%B3%95-Butterfly/"/>
     
   </entry>
   
