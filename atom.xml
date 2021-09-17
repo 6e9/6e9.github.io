@@ -6,7 +6,7 @@
   <link href="https://cato.eu.org/atom.xml" rel="self"/>
   
   <link href="https://cato.eu.org/"/>
-  <updated>2021-09-14T13:25:24.725Z</updated>
+  <updated>2021-09-17T03:09:57.850Z</updated>
   <id>https://cato.eu.org/</id>
   
   <author>
@@ -15,6 +15,36 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Cloudflare Free Argo tunnel 白嫖计划</title>
+    <link href="https://cato.eu.org/argo-tunnel-for-free.html"/>
+    <id>https://cato.eu.org/argo-tunnel-for-free.html</id>
+    <published>2021-09-17T02:36:47.000Z</published>
+    <updated>2021-09-17T03:09:57.850Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;blockquote&gt;
+&lt;p&gt;之前看到了 &lt;code&gt;Cloudflare Blog&lt;/code&gt; 更新了 &lt;a</summary>
+        
+      
+    
+    
+    
+    <category term="Cloudflare" scheme="https://cato.eu.org/categories/Cloudflare/"/>
+    
+    
+    <category term="Cloudflare" scheme="https://cato.eu.org/tags/Cloudflare/"/>
+    
+    <category term="Argo" scheme="https://cato.eu.org/tags/Argo/"/>
+    
+    <category term="Argo tunnel" scheme="https://cato.eu.org/tags/Argo-tunnel/"/>
+    
+  </entry>
   
   <entry>
     <title>Cloudflare WARP 给 VPS 服务器额外添加 IPv4 或 IPv6</title>
