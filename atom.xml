@@ -6,7 +6,7 @@
   <link href="https://cato.eu.org/atom.xml" rel="self"/>
   
   <link href="https://cato.eu.org/"/>
-  <updated>2021-09-17T14:21:45.383Z</updated>
+  <updated>2021-09-18T00:32:13.151Z</updated>
   <id>https://cato.eu.org/</id>
   
   <author>
@@ -15,6 +15,109 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>杂七杂八记录</title>
+    <link href="https://cato.eu.org/zaqizaba.html"/>
+    <id>https://cato.eu.org/zaqizaba.html</id>
+    <published>2021-09-18T00:20:21.000Z</published>
+    <updated>2021-09-18T00:32:13.151Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;杂七杂八&quot;&gt;&lt;a href=&quot;#杂七杂八&quot; class=&quot;headerlink&quot; title=&quot;杂七杂八&quot;&gt;&lt;/a&gt;杂七杂八&lt;/h1&gt;&lt;p&gt;完全免费无限制的文字识别网站&lt;/p&gt;
+&lt;p&gt;&lt;a</summary>
+        
+      
+    
+    
+    
+    <category term="网站" scheme="https://cato.eu.org/categories/%E7%BD%91%E7%AB%99/"/>
+    
+    
+    <category term="一些实用的网站" scheme="https://cato.eu.org/tags/%E4%B8%80%E4%BA%9B%E5%AE%9E%E7%94%A8%E7%9A%84%E7%BD%91%E7%AB%99/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>视频存储网站</title>
+    <link href="https://cato.eu.org/Videostorage.html"/>
+    <id>https://cato.eu.org/Videostorage.html</id>
+    <published>2021-09-18T00:12:47.000Z</published>
+    <updated>2021-09-18T00:19:22.311Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;存储网站&quot;&gt;&lt;a href=&quot;#存储网站&quot; class=&quot;headerlink&quot; title=&quot;存储网站&quot;&gt;&lt;/a&gt;存储网站&lt;/h1&gt;&lt;p&gt;提醒来自影视版权的警告：&lt;br&gt;&lt;a</summary>
+        
+      
+    
+    
+    
+    <category term="存储网站" scheme="https://cato.eu.org/categories/%E5%AD%98%E5%82%A8%E7%BD%91%E7%AB%99/"/>
+    
+    
+    <category term="视频存储" scheme="https://cato.eu.org/tags/%E8%A7%86%E9%A2%91%E5%AD%98%E5%82%A8/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>壁纸</title>
+    <link href="https://cato.eu.org/Picturebee.html"/>
+    <id>https://cato.eu.org/Picturebee.html</id>
+    <published>2021-09-18T00:03:41.000Z</published>
+    <updated>2021-09-18T00:11:48.054Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;壁纸&quot;&gt;&lt;a href=&quot;#壁纸&quot; class=&quot;headerlink&quot; title=&quot;壁纸&quot;&gt;&lt;/a&gt;壁纸&lt;/h1&gt;&lt;p&gt;&lt;a</summary>
+        
+      
+    
+    
+    
+    <category term="壁纸" scheme="https://cato.eu.org/categories/%E5%A3%81%E7%BA%B8/"/>
+    
+    
+    <category term="壁纸网站" scheme="https://cato.eu.org/tags/%E5%A3%81%E7%BA%B8%E7%BD%91%E7%AB%99/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Hexo免费主题,不定期更新</title>
+    <link href="https://cato.eu.org/Hexotheme.html"/>
+    <id>https://cato.eu.org/Hexotheme.html</id>
+    <published>2021-09-17T23:43:41.000Z</published>
+    <updated>2021-09-17T23:59:25.770Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;Hexo免费主题&quot;&gt;&lt;a href=&quot;#Hexo免费主题&quot; class=&quot;headerlink&quot; title=&quot;Hexo免费主题&quot;&gt;&lt;/a&gt;Hexo免费主题&lt;/h1&gt;&lt;p&gt;预览: 👍 &lt;a</summary>
+        
+      
+    
+    
+    
+    <category term="Hexo" scheme="https://cato.eu.org/categories/Hexo/"/>
+    
+    
+    <category term="Hexo" scheme="https://cato.eu.org/tags/Hexo/"/>
+    
+    <category term="Hexo免费主题" scheme="https://cato.eu.org/tags/Hexo%E5%85%8D%E8%B4%B9%E4%B8%BB%E9%A2%98/"/>
+    
+  </entry>
   
   <entry>
     <title>wordpress免费主题</title>
@@ -163,9 +266,9 @@
     
     <category term="Butterfly" scheme="https://cato.eu.org/tags/Butterfly/"/>
     
-    <category term="Markdown写法" scheme="https://cato.eu.org/tags/Markdown%E5%86%99%E6%B3%95/"/>
-    
     <category term="Markdown" scheme="https://cato.eu.org/tags/Markdown/"/>
+    
+    <category term="Markdown写法" scheme="https://cato.eu.org/tags/Markdown%E5%86%99%E6%B3%95/"/>
     
   </entry>
   
