@@ -6,7 +6,7 @@
   <link href="https://cato.eu.org/atom.xml" rel="self"/>
   
   <link href="https://cato.eu.org/"/>
-  <updated>2021-09-20T05:12:39.865Z</updated>
+  <updated>2021-09-20T05:26:24.909Z</updated>
   <id>https://cato.eu.org/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="https://cato.eu.org/OracleF12.html"/>
     <id>https://cato.eu.org/OracleF12.html</id>
     <published>2021-09-20T05:12:09.000Z</published>
-    <updated>2021-09-20T05:12:39.865Z</updated>
+    <updated>2021-09-20T05:26:24.909Z</updated>
     
     
       
@@ -34,10 +34,10 @@
     
     
     
-    <category term="2" scheme="https://cato.eu.org/categories/2/"/>
+    <category term="Oracle" scheme="https://cato.eu.org/categories/Oracle/"/>
     
     
-    <category term="1" scheme="https://cato.eu.org/tags/1/"/>
+    <category term="Oracle" scheme="https://cato.eu.org/tags/Oracle/"/>
     
   </entry>
   

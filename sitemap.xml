@@ -123,20 +123,6 @@
   </url>
   
   <url>
-    <loc>https://cato.eu.org/tags/Argo/</loc>
-    <lastmod>2021-09-20</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://cato.eu.org/tags/Argo-tunnel/</loc>
-    <lastmod>2021-09-20</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://cato.eu.org/tags/Warp/</loc>
     <lastmod>2021-09-20</lastmod>
     <changefreq>daily</changefreq>
@@ -145,6 +131,20 @@
   
   <url>
     <loc>https://cato.eu.org/tags/VPS/</loc>
+    <lastmod>2021-09-20</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://cato.eu.org/tags/Argo/</loc>
+    <lastmod>2021-09-20</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://cato.eu.org/tags/Argo-tunnel/</loc>
     <lastmod>2021-09-20</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
@@ -193,7 +193,7 @@
   </url>
   
   <url>
-    <loc>https://cato.eu.org/tags/1/</loc>
+    <loc>https://cato.eu.org/tags/Oracle/</loc>
     <lastmod>2021-09-20</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
@@ -230,14 +230,14 @@
 
   
   <url>
-    <loc>https://cato.eu.org/categories/Cloudflare/</loc>
+    <loc>https://cato.eu.org/categories/WARP/</loc>
     <lastmod>2021-09-20</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>https://cato.eu.org/categories/WARP/</loc>
+    <loc>https://cato.eu.org/categories/Cloudflare/</loc>
     <lastmod>2021-09-20</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
@@ -258,7 +258,7 @@
   </url>
   
   <url>
-    <loc>https://cato.eu.org/categories/2/</loc>
+    <loc>https://cato.eu.org/categories/Oracle/</loc>
     <lastmod>2021-09-20</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
