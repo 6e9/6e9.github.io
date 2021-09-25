@@ -4,7 +4,7 @@
   <url>
     <loc>https://cato.eu.org/OracleF12.html</loc>
     
-    <lastmod>2021-09-20</lastmod>
+    <lastmod>2021-09-25</lastmod>
     
   </url>
   
@@ -109,7 +109,7 @@
 
   <url>
     <loc>https://cato.eu.org/</loc>
-    <lastmod>2021-09-20</lastmod>
+    <lastmod>2021-09-25</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -117,112 +117,112 @@
   
   <url>
     <loc>https://cato.eu.org/tags/Cloudflare/</loc>
-    <lastmod>2021-09-20</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://cato.eu.org/tags/Warp/</loc>
-    <lastmod>2021-09-20</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://cato.eu.org/tags/VPS/</loc>
-    <lastmod>2021-09-20</lastmod>
+    <lastmod>2021-09-25</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://cato.eu.org/tags/Argo/</loc>
-    <lastmod>2021-09-20</lastmod>
+    <lastmod>2021-09-25</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://cato.eu.org/tags/Argo-tunnel/</loc>
-    <lastmod>2021-09-20</lastmod>
+    <lastmod>2021-09-25</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://cato.eu.org/tags/Warp/</loc>
+    <lastmod>2021-09-25</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://cato.eu.org/tags/VPS/</loc>
+    <lastmod>2021-09-25</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://cato.eu.org/tags/Hexo/</loc>
-    <lastmod>2021-09-20</lastmod>
+    <lastmod>2021-09-25</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://cato.eu.org/tags/Hexo%E5%85%8D%E8%B4%B9%E4%B8%BB%E9%A2%98/</loc>
-    <lastmod>2021-09-20</lastmod>
+    <lastmod>2021-09-25</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://cato.eu.org/tags/Butterfly/</loc>
-    <lastmod>2021-09-20</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://cato.eu.org/tags/Markdown/</loc>
-    <lastmod>2021-09-20</lastmod>
+    <lastmod>2021-09-25</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://cato.eu.org/tags/Markdown%E5%86%99%E6%B3%95/</loc>
-    <lastmod>2021-09-20</lastmod>
+    <lastmod>2021-09-25</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>https://cato.eu.org/tags/url%E8%87%AA%E5%AE%9A%E4%B9%89/</loc>
-    <lastmod>2021-09-20</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://cato.eu.org/tags/Oracle/</loc>
-    <lastmod>2021-09-20</lastmod>
+    <loc>https://cato.eu.org/tags/Markdown/</loc>
+    <lastmod>2021-09-25</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://cato.eu.org/tags/wordpress%E4%B8%BB%E9%A2%98/</loc>
-    <lastmod>2021-09-20</lastmod>
+    <lastmod>2021-09-25</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://cato.eu.org/tags/url%E8%87%AA%E5%AE%9A%E4%B9%89/</loc>
+    <lastmod>2021-09-25</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://cato.eu.org/tags/%E5%A3%81%E7%BA%B8%E7%BD%91%E7%AB%99/</loc>
-    <lastmod>2021-09-20</lastmod>
+    <lastmod>2021-09-25</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://cato.eu.org/tags/Oracle/</loc>
+    <lastmod>2021-09-25</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://cato.eu.org/tags/%E4%B8%80%E4%BA%9B%E5%AE%9E%E7%94%A8%E7%9A%84%E7%BD%91%E7%AB%99/</loc>
-    <lastmod>2021-09-20</lastmod>
+    <lastmod>2021-09-25</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://cato.eu.org/tags/%E8%A7%86%E9%A2%91%E5%AD%98%E5%82%A8/</loc>
-    <lastmod>2021-09-20</lastmod>
+    <lastmod>2021-09-25</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
@@ -230,78 +230,78 @@
 
   
   <url>
-    <loc>https://cato.eu.org/categories/WARP/</loc>
-    <lastmod>2021-09-20</lastmod>
+    <loc>https://cato.eu.org/categories/Cloudflare/</loc>
+    <lastmod>2021-09-25</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>https://cato.eu.org/categories/Cloudflare/</loc>
-    <lastmod>2021-09-20</lastmod>
+    <loc>https://cato.eu.org/categories/WARP/</loc>
+    <lastmod>2021-09-25</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://cato.eu.org/categories/Hexo/</loc>
-    <lastmod>2021-09-20</lastmod>
+    <lastmod>2021-09-25</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://cato.eu.org/categories/Markdown/</loc>
-    <lastmod>2021-09-20</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://cato.eu.org/categories/Oracle/</loc>
-    <lastmod>2021-09-20</lastmod>
+    <lastmod>2021-09-25</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://cato.eu.org/categories/Wordpress/</loc>
-    <lastmod>2021-09-20</lastmod>
+    <lastmod>2021-09-25</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://cato.eu.org/categories/%E5%A3%81%E7%BA%B8/</loc>
-    <lastmod>2021-09-20</lastmod>
+    <lastmod>2021-09-25</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://cato.eu.org/categories/Oracle/</loc>
+    <lastmod>2021-09-25</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://cato.eu.org/categories/%E7%BD%91%E7%AB%99/</loc>
-    <lastmod>2021-09-20</lastmod>
+    <lastmod>2021-09-25</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://cato.eu.org/categories/%E5%AD%98%E5%82%A8%E7%BD%91%E7%AB%99/</loc>
-    <lastmod>2021-09-20</lastmod>
+    <lastmod>2021-09-25</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://cato.eu.org/categories/Markdown/butterfly/</loc>
-    <lastmod>2021-09-20</lastmod>
+    <lastmod>2021-09-25</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://cato.eu.org/categories/Hexo/butterfly/</loc>
-    <lastmod>2021-09-20</lastmod>
+    <lastmod>2021-09-25</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
