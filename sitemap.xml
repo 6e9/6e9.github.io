@@ -172,13 +172,6 @@
   </url>
   
   <url>
-    <loc>https://cato.eu.org/tags/Markdown%E5%86%99%E6%B3%95/</loc>
-    <lastmod>2021-09-25</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://cato.eu.org/tags/Markdown/</loc>
     <lastmod>2021-09-25</lastmod>
     <changefreq>daily</changefreq>
@@ -186,7 +179,7 @@
   </url>
   
   <url>
-    <loc>https://cato.eu.org/tags/wordpress%E4%B8%BB%E9%A2%98/</loc>
+    <loc>https://cato.eu.org/tags/Markdown%E5%86%99%E6%B3%95/</loc>
     <lastmod>2021-09-25</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
@@ -200,14 +193,21 @@
   </url>
   
   <url>
-    <loc>https://cato.eu.org/tags/%E5%A3%81%E7%BA%B8%E7%BD%91%E7%AB%99/</loc>
+    <loc>https://cato.eu.org/tags/Oracle/</loc>
     <lastmod>2021-09-25</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>https://cato.eu.org/tags/Oracle/</loc>
+    <loc>https://cato.eu.org/tags/wordpress%E4%B8%BB%E9%A2%98/</loc>
+    <lastmod>2021-09-25</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://cato.eu.org/tags/%E5%A3%81%E7%BA%B8%E7%BD%91%E7%AB%99/</loc>
     <lastmod>2021-09-25</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
@@ -258,6 +258,13 @@
   </url>
   
   <url>
+    <loc>https://cato.eu.org/categories/Oracle/</loc>
+    <lastmod>2021-09-25</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://cato.eu.org/categories/Wordpress/</loc>
     <lastmod>2021-09-25</lastmod>
     <changefreq>daily</changefreq>
@@ -266,13 +273,6 @@
   
   <url>
     <loc>https://cato.eu.org/categories/%E5%A3%81%E7%BA%B8/</loc>
-    <lastmod>2021-09-25</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://cato.eu.org/categories/Oracle/</loc>
     <lastmod>2021-09-25</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
